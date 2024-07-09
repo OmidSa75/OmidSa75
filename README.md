@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://media1.tenor.com/m/H66sK9ejYFkAAAAC/berserk-mark-of-sacrifice.gif"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemY4dDRidHNuNGRrbDFmaGdyNnpyemowbnk2cHViNGtxZnkzcjNvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif"/>
 </p>
 
 
